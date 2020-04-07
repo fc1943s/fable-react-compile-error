@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "webpack-dev-server": "webpack-dev-server"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
+    
+    "html-webpack-plugin": "^4.0.4",
+    "copy-webpack-plugin": "^5.1.1",
+    "mini-css-extract-plugin": "^0.9.0",
+    
+    "@babel/core": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    
+    "fable-loader": "^2.1.9",
+    "fable-compiler": "^2.4.22"
+  }
+}

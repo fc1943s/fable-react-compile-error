@@ -1,0 +1,31 @@
+local.user.js
+
+### Local settings
+
+# ide settings
+.idea/
+
+# user configurations
+*.user
+
+
+
+### .net
+
+obj/
+bin/
+nupkg/
+packages/
+!/packages/
+
+.fake/
+.paket/
+paket-files/
+
+
+
+### JavaScript
+
+# npm packages
+node_modules/
+
